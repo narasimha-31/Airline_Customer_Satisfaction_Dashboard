@@ -42,11 +42,6 @@ The focus is on **EDA (Exploratory Data Analysis)**, data cleaning, and **visual
   <img src="https://img.shields.io/badge/Tableau-F37626?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
 
-<hr style="border: none; border-top: 1px solid #000; height: 1px; margin: 20px 0;" />
-
-
-<hr style="border: none; border-top: 1px solid #000; height: 1px; margin: 20px 0;" />
-
 
 
 
