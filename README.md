@@ -47,12 +47,6 @@ The focus is on **EDA (Exploratory Data Analysis)**, data cleaning, and **visual
 
 <hr style="border: none; border-top: 1px solid #000; height: 1px; margin: 20px 0;" />
 
-### 📸 Screenshots
-
-| Satisfaction Breakdown | Correlation Heatmap |
-|------------------------|---------------------|
-| ![Type](visuals/satisfaction_by_type.png) | ![Corr](visuals/correlation_heatmap.png) |
-
 
 
 
